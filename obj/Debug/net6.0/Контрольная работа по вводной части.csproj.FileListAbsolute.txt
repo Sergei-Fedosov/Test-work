@@ -1,0 +1,15 @@
+C:\Users\green\Desktop\Учёба\Visual Studio Code\Контрольная работа по вводной части\bin\Debug\net6.0\Контрольная работа по вводной части.exe
+C:\Users\green\Desktop\Учёба\Visual Studio Code\Контрольная работа по вводной части\bin\Debug\net6.0\Контрольная работа по вводной части.deps.json
+C:\Users\green\Desktop\Учёба\Visual Studio Code\Контрольная работа по вводной части\bin\Debug\net6.0\Контрольная работа по вводной части.runtimeconfig.json
+C:\Users\green\Desktop\Учёба\Visual Studio Code\Контрольная работа по вводной части\bin\Debug\net6.0\Контрольная работа по вводной части.dll
+C:\Users\green\Desktop\Учёба\Visual Studio Code\Контрольная работа по вводной части\bin\Debug\net6.0\Контрольная работа по вводной части.pdb
+C:\Users\green\Desktop\Учёба\Visual Studio Code\Контрольная работа по вводной части\obj\Debug\net6.0\Контрольная работа по вводной части.csproj.AssemblyReference.cache
+C:\Users\green\Desktop\Учёба\Visual Studio Code\Контрольная работа по вводной части\obj\Debug\net6.0\Контрольная работа по вводной части.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\green\Desktop\Учёба\Visual Studio Code\Контрольная работа по вводной части\obj\Debug\net6.0\Контрольная работа по вводной части.AssemblyInfoInputs.cache
+C:\Users\green\Desktop\Учёба\Visual Studio Code\Контрольная работа по вводной части\obj\Debug\net6.0\Контрольная работа по вводной части.AssemblyInfo.cs
+C:\Users\green\Desktop\Учёба\Visual Studio Code\Контрольная работа по вводной части\obj\Debug\net6.0\Контрольная работа по вводной части.csproj.CoreCompileInputs.cache
+C:\Users\green\Desktop\Учёба\Visual Studio Code\Контрольная работа по вводной части\obj\Debug\net6.0\Контрольная работа по вводной части.dll
+C:\Users\green\Desktop\Учёба\Visual Studio Code\Контрольная работа по вводной части\obj\Debug\net6.0\refint\Контрольная работа по вводной части.dll
+C:\Users\green\Desktop\Учёба\Visual Studio Code\Контрольная работа по вводной части\obj\Debug\net6.0\Контрольная работа по вводной части.pdb
+C:\Users\green\Desktop\Учёба\Visual Studio Code\Контрольная работа по вводной части\obj\Debug\net6.0\Контрольная работа по вводной части.genruntimeconfig.cache
+C:\Users\green\Desktop\Учёба\Visual Studio Code\Контрольная работа по вводной части\obj\Debug\net6.0\ref\Контрольная работа по вводной части.dll

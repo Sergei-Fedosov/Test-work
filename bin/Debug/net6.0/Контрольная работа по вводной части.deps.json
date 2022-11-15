@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Контрольная работа по вводной части/1.0.0": {
+        "runtime": {
+          "Контрольная работа по вводной части.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Контрольная работа по вводной части/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
